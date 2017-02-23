@@ -7,5 +7,4 @@ test test
 3rd modify
 4modify
 modify for dev branch
-for dev
-for dev & modify
+for dev & modify & master
